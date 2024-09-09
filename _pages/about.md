@@ -11,7 +11,7 @@ Hi! I'm Audrey, a fourth-year Computer Science and Data Science undergraduate at
 
 my work and research
 ======
-more stuff here
+Lorem ipsum odor amet, consectetuer adipiscing elit. Nullam consequat a; mollis sagittis sed risus. Mi lobortis suscipit laoreet at aliquet. Volutpat torquent aliquam faucibus; sem nostra leo nec. Dignissim a fusce sem aliquet velit vulputate fusce. Nostra sapien sed nam non vitae mattis. Et nunc scelerisque natoque conubia netus. Fusce eleifend efficitur euismod bibendum aenean elit semper quam arcu. Sociosqu suspendisse nostra aenean ac convallis scelerisque pellentesque magnis montes.
 
 my background and history
 ======
@@ -19,4 +19,4 @@ Born and raised in the beautifully forested [Portland Metro Area](https://en.wik
 
 just for fun
 ======
-I dabble in [photography](https://capturedbydree.pixieset.com/), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I dabble in [photography](https://capturedbydree.pixieset.com/), as well as videography.
