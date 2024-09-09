@@ -15,7 +15,7 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Nullam consequat a; mollis 
 
 my background and history
 ======
-Born and raised in the beautifully forested [Portland Metro Area](https://en.wikipedia.org/wiki/Portland,_Oregon), I graduated at the [top of my class](https://www.westlinntidings.com/news/we-are-not-boxes-on-a-screen-now-we-are-a-sea-of-green-and/article_ea2be376-d7da-5e85-93aa-940adceb5ca8.html) from [West Linn High School](https://www.wlwv.k12.or.us/wlhs) in 2021. Vulputate cras tellus congue dapibus ipsum. Turpis curae sociosqu mollis non, pulvinar dictumst dictumst elementum donec. Lectus mi nibh auctor dui condimentum donec fames velit convallis. Fusce curabitur netus tristique aliquet inceptos ligula cras ut. Tempus convallis congue mi ullamcorper duis pharetra ullamcorper tempor lacinia. Quis non potenti ipsum vestibulum pulvinar. 
+Born and raised in the beautifully forested [Portland Metro Area](https://en.wikipedia.org/wiki/Portland,_Oregon). I attended [West Linn High School](https://www.wlwv.k12.or.us/wlhs) and graduated at the [top of my class](https://www.westlinntidings.com/news/we-are-not-boxes-on-a-screen-now-we-are-a-sea-of-green-and/article_ea2be376-d7da-5e85-93aa-940adceb5ca8.html) in 2021. Vulputate cras tellus congue dapibus ipsum. Turpis curae sociosqu mollis non, pulvinar dictumst dictumst elementum donec. Lectus mi nibh auctor dui condimentum donec fames velit convallis. Fusce curabitur netus tristique aliquet inceptos ligula cras ut. Tempus convallis congue mi ullamcorper duis pharetra ullamcorper tempor lacinia. Quis non potenti ipsum vestibulum pulvinar. 
 
 just for fun
 ======
