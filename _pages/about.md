@@ -19,4 +19,4 @@ Born and raised in the beautifully forested [Portland Metro Area](https://en.wik
 
 just for fun
 ======
-I dabble in [photography](https://capturedbydree.pixieset.com/), as well as [carrying a vlog camera sometimes](https://www.youtube.com/@One-Two-Dree/videos). I like to [run long distances](https://www.athlinks.com/athletes/543903770), bike, and swim. Eget pellentesque laoreet ultricies ridiculus commodo sapien class. Turpis curae sociosqu mollis non, pulvinar dictumst dictumst elementum donec. Lectus mi nibh auctor dui condimentum donec fames velit convallis. Fusce curabitur netus tristique aliquet inceptos ligula cras ut. Tempus convallis congue mi ullamcorper duis pharetra ullamcorper tempor lacinia.
+I dabble in [photography](https://capturedbydree.pixieset.com/), as well as [carry a vlog camera sometimes](https://www.youtube.com/@One-Two-Dree/videos). I like to [run long distances](https://www.athlinks.com/athletes/543903770), bike, and swim. I'm always happy to go on a run, ride, or chat at a local coffee shop - feel free to reach out!
