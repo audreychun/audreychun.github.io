@@ -15,7 +15,7 @@ During my undergraduate career, I worked in the [Sotiras Lab](https://www.mir.wu
 
 my background and history
 ======
-Born and raised in the beautifully forested [Portland Metro Area](https://en.wikipedia.org/wiki/Portland,_Oregon), I attended [West Linn High School](https://www.wlwv.k12.or.us/wlhs) and graduated at the [top of my class](https://www.westlinntidings.com/news/we-are-not-boxes-on-a-screen-now-we-are-a-sea-of-green-and/article_ea2be376-d7da-5e85-93aa-940adceb5ca8.html) in May 2021. I began my studies at the [University of California, Berkeley](https://www.berkeley.edu/) in Fall 2021.
+Born and raised in the beautiful [Portland Metro Area](https://en.wikipedia.org/wiki/Portland,_Oregon), I attended [West Linn High School](https://www.wlwv.k12.or.us/wlhs) and graduated at the [top of my class](https://www.westlinntidings.com/news/we-are-not-boxes-on-a-screen-now-we-are-a-sea-of-green-and/article_ea2be376-d7da-5e85-93aa-940adceb5ca8.html) in May 2021. I began my studies at the [University of California, Berkeley](https://www.berkeley.edu/) in Fall 2021.
 
 just for fun
 ======
