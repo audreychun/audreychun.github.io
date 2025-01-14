@@ -19,4 +19,4 @@ Born and raised in the beautiful [Portland Metro Area](https://en.wikipedia.org/
 
 just for fun
 ======
-I dabble in [photography](https://capturedbydree.pixieset.com/), as well as [carry a vlog camera sometimes](https://www.youtube.com/@One-Two-Dree/videos). I like to [run long distances](https://www.athlinks.com/athletes/543903770), bike, and swim. Always happy to go on a run, ride, or grab coffee - feel free to reach out!
+I dabble in [photography](https://capturedbydree.pixieset.com/), as well as [carry a vlog camera sometimes](https://www.youtube.com/@One-Two-Dree/videos). I like to [run long distances](https://www.athlinks.com/athletes/543903770), bike, and swim. Always happy to go on a run, ride, or grab coffee - feel free to reach out! test
