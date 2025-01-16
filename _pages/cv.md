@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my most up-to-date CV [here](https://drive.google.com/file/d/18oykYQ7d6OiQj91kx5sXkcaB-vMluTEc/view?usp=sharing).
+
+
+```
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -62,3 +67,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+```
