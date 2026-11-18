@@ -20,7 +20,7 @@ repository               : "audreychun/audreychun.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar: "profile3.png"
+  avatar: "grad_headshot.JPG"
   name: "Audrey S. Chun"
   pronouns:
   bio: "Computer Science + Data Science"
